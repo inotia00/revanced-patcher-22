@@ -47,7 +47,6 @@ dependencies {
     implementation(libs.kotlinx.coroutines.core)
     implementation(libs.multidexlib2)
     implementation(libs.smali)
-    implementation(libs.xpp3)
 
     testImplementation(libs.mockk)
     testImplementation(libs.kotlin.test)
